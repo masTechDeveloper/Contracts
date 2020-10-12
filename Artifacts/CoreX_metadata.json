@@ -58,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localhost/contracts/presale.sol": "BRAIN"
+			"localhost/contracts/SupplyDetermination.sol": "CXF"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
