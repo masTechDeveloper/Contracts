@@ -287,7 +287,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localhost/contracts/BrainLootbox.sol": "BrainLootbox"
+			"localhost/contracts/CorexVault.sol": "CorexVault"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -301,7 +301,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"localhost/contracts/BrainLootbox.sol": {
+		"localhost/contracts/CorexVault.sol": {
 			"keccak256": "0x010533209ff5c03a4061b61516f31c37b87c361e2b1a6155546b596d7816829a",
 			"urls": [
 				"bzz-raw://ca497ef3075b0be8e8a84ea0c223ce03edc23e6301cd7cc392d756a66e411637",
