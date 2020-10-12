@@ -151,7 +151,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "LootboxAddress",
+				"name": "VaultAddress",
 				"outputs": [
 					{
 						"internalType": "address",
@@ -371,7 +371,7 @@
 				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "_lootbox",
+						"name": "_vault",
 						"type": "uint256"
 					}
 				],
@@ -408,7 +408,7 @@
 						"type": "address"
 					}
 				],
-				"name": "setLootboxAddress",
+				"name": "setVaultAddress",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
