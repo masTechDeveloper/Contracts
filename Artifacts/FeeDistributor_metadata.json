@@ -9,7 +9,7 @@
 				"inputs": [
 					{
 						"internalType": "address",
-						"name": "_brain",
+						"name": "_coerx",
 						"type": "address"
 					},
 					{
@@ -54,7 +54,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "brainAddress",
+				"name": "corexAddress",
 				"outputs": [
 					{
 						"internalType": "address",
