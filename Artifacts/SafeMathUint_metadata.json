@@ -42,7 +42,7 @@
 				"dweb:/ipfs/QmbyQ9LXn6TF28vFT6rML7yp4EyWPWUPojkAmQRTYV3e7u"
 			]
 		},
-		"localhost/contracts/IBrainLootbox.sol": {
+		"localhost/contracts/ICorexVault.sol": {
 			"keccak256": "0x75dfce1addb1fd40965c61b08d9a55d25e5685fb5695508b840f11f86b9002ba",
 			"urls": [
 				"bzz-raw://85b7fae7278bc2ebe67fb11a43d3e20b5b98cd8bb674da6e0632cf7243d37bbf",
