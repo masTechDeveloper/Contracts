@@ -165,7 +165,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localhost/contracts/presale.sol": "BrainPresale"
+			"localhost/contracts/SupplyDetermination.sol": "CoreXSuppyDetermination"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -200,7 +200,7 @@
 				"dweb:/ipfs/QmcZRotSui91hCWzze4pBkegXAiXdNQHguZJFE16UVobgx"
 			]
 		},
-		"localhost/contracts/presale.sol": {
+		"localhost/contracts/SupplyDetermination.sol": {
 			"keccak256": "0x1e824eba987367e394a41aedd8d9d849156f88ac42c1ec9ea9735b15b99a3853",
 			"urls": [
 				"bzz-raw://25f1d03c4541b186fde5b5300aaab698afefe3492b7c71a19b9b6ebf7a9c5887",
