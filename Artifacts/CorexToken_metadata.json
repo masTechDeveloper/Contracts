@@ -528,7 +528,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"localhost/contracts/BrainToken.sol": "BrainToken"
+			"localhost/contracts/CorexToken.sol": "CorexToken"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -549,7 +549,7 @@
 				"dweb:/ipfs/QmXeAHQtzDv9GAWw7JE72CQNUZ5VL8mWENb1xvvNmmxFfr"
 			]
 		},
-		"localhost/contracts/BrainToken.sol": {
+		"localhost/contracts/CorexToken.sol": {
 			"keccak256": "0x158cb9319f3132b9c7620937ce733ba4275122e8e13a246fb2d1f66af7bf4942",
 			"urls": [
 				"bzz-raw://a46860e9d8ae63acbee7728d9ae81c59bd42f2e042bc2fabad73baec41c5843b",
